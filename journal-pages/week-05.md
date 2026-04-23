@@ -1,24 +1,9 @@
----
-layout: default
----
+# Reflective Proposal
 
-# Week 05
+As I've experimented with data, I've become more aware of how everyday activities can be displayed visually through statistical analysis. After a week's worth of tracking my total phone use, I began noticing some patterns that I hadn't been aware of before, which also included the amount of "passive" scrolling that was taking place. These trends and patterns correspond with the notion of "data humanism," which means that the data we gather reflects not only numbers but also our lived experiences. By engaging with data in real-time and with AI technology, I've also discovered that the collection and presentation of data can change depending upon the original data collection methods, therefore creating subjectivity versus objectivity. Understanding that data is not neutral allows me to see how designers create meaning based on their decisions. My goal is to continue researching the impact between self awareness, personal behaviour and visualising through the use of data.
 
-[← Back to Home](../index.md)
+The focus of my project is to measure how daily phone usage is becoming more and more automated through datafication, especially with the increase of passive behaviour and how that will affect our attention span and actions. For example, if we have continuous access to the amount of time we spend using our devices or the amount of time we spend scrolling through a social media site, or checking notifications, we will start to quantify what is really a productive or non-productive use of time. Everyday tasks such as scrolling through a timeline or checking our notifications will become an exact science, and these types of data points will raise questions about who has control, awareness, and autonomy.
 
-## Documentation 
+Self-collected and potential live data will be combined. Phone use will be tracked over the course of time to record purposes (i.e., practical, communication, entertainment, passive), frequency, and length. This data will be interpreted as behavioral patterns indicative of routine vs. distractions rather than merely viewed as quantitative data. This approach to interpreting the data follows previous experiments completed using data protocols and live systems but provides a personal perspective.
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
-
-## Images & Media
-
-*Use the format below to embed images from your assets folder:*
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+Visualization will move away from traditional graph-based visualization to a more expressive visual form of reporting, perhaps with an interactive component. Dense, repetitive patterns may represent passive use and a more structured, spaced format would represent intentional use. The purpose of the visualization is to uncover difficult-to-see habits in order to prompt reflection and promote a greater awareness of how phone usage impacts attention and the value of time.
