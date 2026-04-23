@@ -5,7 +5,7 @@ title: Home
 
 # Making Journal for DES240
 
-*Write a short introduction about yourself and this course here. What are you hoping to learn and achieve? What's your background as a designer? What are your interests as a designer?*
+I'm a design student with an interest in data visualisation through visual representation of everyday behaviour. This journal serves as a record of my experimental work using data humanism, interaction and artificial intelligence that will form the basis for my last data driven design project.
 
 ---
 
