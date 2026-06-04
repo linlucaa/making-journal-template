@@ -41,7 +41,7 @@ As the sliders were incrementing, the following occurred:
 
 My intent was to not make a polished prototype but to create an observable and usable visual representation of the concept.
 
-![Week 7 Image 3](../assets/week-07/240%20week%207%20img3.png)
+![Week 7 Particle System](../assets/week-07/240%20week%207%20particle.png)
 
 *The first interactive prototype with respect to testing both parts of behavioural instability and spread.*
 
@@ -81,7 +81,7 @@ Ultimately, I chose to focus on the restoring interaction idea. This variation i
 This created a much more dynamic relationship between order and disorder and/or control and collapse.
 
 
-![Week 7 Image 4](../assets/week-07/240%20week%207%20img4.jpg)
+![Week 7 Last Sketch](../assets/week-07/240%20week%207%20img%20last.png)
 *Variation exploring temporary recovery and interaction-based focus restoration.*
 
 ## Reflection on Variations
