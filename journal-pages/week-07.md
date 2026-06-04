@@ -65,7 +65,7 @@ After creating these various prototypes, I determined that while movement and in
 ![Week 7 Image 4](../assets/week-07/240%20week%207%20img4.jpg)
 *Developing interaction systems, movement behaviour, and AI-assisted prototyping workflows in p5.js.*
 
-{IMAGE}!
+![Week 7 New Image](../assets/week-07/240%20week%207%20img%20new.png)
 *Using AI-assisted prototyping to explore interaction systems, particle behaviour, and technical solutions.*
 
 ## 3. “What If” Variations
