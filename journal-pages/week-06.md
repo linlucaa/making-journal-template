@@ -65,7 +65,8 @@ The artefact that I am planning to create is an interactive p5.js visualisation 
 
 The end of the project will also include exploration of temporary restoration through intentional interaction.
 
-![Week 6 Data Categories](../assets/week-06/240%20week%206%20img2.jpg)
+![Week 6 Image 2](../assets/week-06/240%20week6%20img2.png)
+
 *Initial concept sketch exploring the relationship between passive digital behaviour and system collapse.*
 
 
@@ -100,7 +101,7 @@ Finally, the consultation highlighted the need for better documentation and cont
 - What was effective,
 - How does this experiment relate back to the overall project direction.
 
-![Week 6 Data Categories](../assets/week-06/240%20week%206%20img3.jpg)
+![Week 6 Image 3](../assets/week-06/240%20week%206%20img%203.png)
 *Proposal consultation notes focusing on interaction, behavioural metaphor, and experiential visualisation.*
 
 ## Technical Skill Building
@@ -113,7 +114,7 @@ The prototype also revealed technical difficulties as many of the interactions b
 
 These first stages of experimentation led me to create future-proofed prototypes while at the same time develop my skills with p5.js and learn how to make optimise use of AI as a prototyping, testing and iterative design tool.
 
-![Week 6 Data Categories](../assets/week-06/240%20week%206%20img4.jpg)
+![Week 6 Image 4](../assets/week-06/240%20week%206%20img%204.png)
 *Early p5.js prototype testing behavioural instability and distraction spread.*
 
 ## Initial Concept Prototype
