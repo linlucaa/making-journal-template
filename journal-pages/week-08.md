@@ -64,7 +64,7 @@ This created clearer interaction behaviour and improved the readability of the v
 
 
 
-![Week 8 Before and After](../assets/week-08/240%20week%208%20img%204.png)
+![Week 8 Image 3](../assets/week-08/240%20week%208%20img%203.png)
 
 *Before and after comparison showing improvements to readability and interaction clarity.*
 
