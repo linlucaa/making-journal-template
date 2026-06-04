@@ -127,7 +127,7 @@ I also added:
 
 These changes made the visualisation feel more dynamic and emotionally responsive.
 
-{IMAGE}
+![Week 9 Image 6](../assets/week-09/240%20week%209%20img6.png)
 
 *Comparison showing clearer hierarchy, smoother movement, and improved behavioural readability.*
 
