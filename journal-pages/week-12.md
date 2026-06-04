@@ -1,4 +1,4 @@
-# Week 12: 
+# Week 12: Showcase
 
 ## Project Statement: Passive Digital Behaviour and Loss of Focus
 
